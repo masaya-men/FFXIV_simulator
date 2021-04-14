@@ -19,7 +19,9 @@ Create original rotations.  Calculate by latest formula.  <br>This makes you mor
 ## Download
 
 ## Story
-たくさんあるスキルやアビリティを適切な順番で使用して、より効率的に高いダメージを出すことは、<br>気軽に遊びたいプレイヤーにはハードルが高いものだと考えます。<br>気軽に「より上手く」を目指すことができれば、FFXIVをもっと楽しめるようになるという想いから、製作を決意しました。
+数多くのスキルやアビリティを適切な順番で使用して、より効率的に高いダメージを出すことは、<br>気軽に遊びたいプレイヤーにはハードルが高いものだと考えます。<br>気軽に「より上手く」を目指すことができれば、FFXIVをもっと楽しめるようになるという想いから、製作を決意しました。
+
+It's so hard to construct the best skill rotations for casual users.<br>I want to lower the hurdle of learning rotations. I believe if app like that exists, makes lots of players fun. So I determined to create that.
 
 ## Requirements Document
 
