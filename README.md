@@ -3,7 +3,7 @@
 ![shadowbringers_6.jpeg](shadowbringers_6.jpeg)
 
 ## Overview
-### FINAL FANTASY XIV(略称：FFXIV)・スキル回しシミュレーター
+### FINAL FANTASY XIV(FFXIV)・スキル回しシミュレーター
 FFXIVをもっと楽しむために学びたい、スキル回しを直感的に組み立てられるアプリです。<br>最新パッチの計算式を元に、DPSを概算できます。楽しく直感的に今よりもうまくなろう！
 
 現在学習中・製作中の初学者です。以下は全て予定ですが、必ずやります（断言
