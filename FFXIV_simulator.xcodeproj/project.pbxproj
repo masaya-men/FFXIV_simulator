@@ -7,15 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C584D42F26203CF400C3C950 /* StatusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C584D42E26203CF400C3C950 /* StatusViewController.swift */; };
 		C59437D9261DA0A40025968A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59437D8261DA0A40025968A /* AppDelegate.swift */; };
 		C59437DB261DA0A40025968A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59437DA261DA0A40025968A /* SceneDelegate.swift */; };
 		C59437DD261DA0A40025968A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59437DC261DA0A40025968A /* ViewController.swift */; };
 		C59437E0261DA0A40025968A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C59437DE261DA0A40025968A /* Main.storyboard */; };
 		C59437E2261DA0A60025968A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C59437E1261DA0A60025968A /* Assets.xcassets */; };
 		C59437E5261DA0A60025968A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C59437E3261DA0A60025968A /* LaunchScreen.storyboard */; };
+		C59437EE261DBD940025968A /* shadowbringers.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C59437ED261DBD940025968A /* shadowbringers.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C584D42E26203CF400C3C950 /* StatusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusViewController.swift; sourceTree = "<group>"; };
 		C59437D5261DA0A40025968A /* FFXIV_simulator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FFXIV_simulator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C59437D8261DA0A40025968A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C59437DA261DA0A40025968A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +27,7 @@
 		C59437E1261DA0A60025968A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C59437E4261DA0A60025968A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C59437E6261DA0A60025968A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C59437ED261DBD940025968A /* shadowbringers.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shadowbringers.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +60,12 @@
 		C59437D7261DA0A40025968A /* FFXIV_simulator */ = {
 			isa = PBXGroup;
 			children = (
+				C59437ED261DBD940025968A /* shadowbringers.jpeg */,
 				C59437D8261DA0A40025968A /* AppDelegate.swift */,
 				C59437DA261DA0A40025968A /* SceneDelegate.swift */,
 				C59437DC261DA0A40025968A /* ViewController.swift */,
 				C59437DE261DA0A40025968A /* Main.storyboard */,
+				C584D42E26203CF400C3C950 /* StatusViewController.swift */,
 				C59437E1261DA0A60025968A /* Assets.xcassets */,
 				C59437E3261DA0A60025968A /* LaunchScreen.storyboard */,
 				C59437E6261DA0A60025968A /* Info.plist */,
@@ -125,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C59437E5261DA0A60025968A /* LaunchScreen.storyboard in Resources */,
+				C59437EE261DBD940025968A /* shadowbringers.jpeg in Resources */,
 				C59437E2261DA0A60025968A /* Assets.xcassets in Resources */,
 				C59437E0261DA0A40025968A /* Main.storyboard in Resources */,
 			);
@@ -137,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C584D42F26203CF400C3C950 /* StatusViewController.swift in Sources */,
 				C59437DD261DA0A40025968A /* ViewController.swift in Sources */,
 				C59437D9261DA0A40025968A /* AppDelegate.swift in Sources */,
 				C59437DB261DA0A40025968A /* SceneDelegate.swift in Sources */,
