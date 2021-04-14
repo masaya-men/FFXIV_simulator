@@ -11,10 +11,10 @@ FFXIVをもっと楽しむために学びたい、スキル回しを直感的に
 Create original rotations.  Calculate by latest formula.  <br>This makes you more fun!<br>Just started, everything is just plans, but I will get it done.<br>I'm not good at English, please let me know if it is difficult for you understand.
 
 ## Features
-- `ステータス入力`Add status of your character
-- `スキル回し構築`Create skill rotations with simple controls
-- `トッププレイヤーのスキル回しテンプレート`Check top players rotations
-- `ジョブ毎のスキル回し保存機能`Save yours per jobs
+- **ステータス入力**Add status of your character
+- **スキル回し構築**Create skill rotations with simple controls
+- **トッププレイヤーのスキル回しテンプレート**Check top players rotations
+- **ジョブ毎のスキル回し保存機能**Save yours per jobs
 
 ## Download
 
