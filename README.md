@@ -25,11 +25,11 @@ It's so hard to construct the best skill rotations for casual users.<br>I want t
 
 ## Requirements Document
 
-課題|なぜ解決したいか|解決のための実装
+課題*assignment*|なぜ解決したいか*why I want to solve*|解決のための実装*features/functions*
 ---|---|---
-隙間時間でFFXIVを充実させる|限られたプレイ時間を極力長く保ちたい|シンプルなUIで直感的にスキル回しを考えられる
-情報の多さ|簡単にスキル回しを勉強したい|トッププレイヤーのスキル回しをテンプレートとして用意
-PS4・PS5ユーザーの勉強しづらさ|障壁になるものを減らしたい|DPSを概算してリアルタイムで表示
-かといってゲーム内以外ではそもそものコンボが分からない。。|なるべく手軽に使ってもらいたい|次に使えるスキルやアビリティなどをリキャストタイムやバフから割り出す
-実力への反映|机上論で終わらせたくない|木人での練習時などに、1GCD前倒しで読み上げてくれる機能
+実プレイ時間の確保*keep time for play*|限られたプレイ時間を極力長く保ちたい*learn until log in, use time for play*|シンプルなUIで直感的にスキル回しを考えられる*simple controls*
+情報の多さ*flood of info*|簡単にスキル回しを勉強したい*for learn easily*|トッププレイヤーのスキル回しをテンプレートとして用意*can check top player's one*
+PS4・PS5ユーザーの勉強しづらさ*barrier between PS and PC*|障壁になるものを減らしたい*for decrease barrier*|DPSを概算してリアルタイムで表示*calculate DPS*
+かといってゲーム外ではそもそものコンボが分からない。。*Actually I don't remember combos...*|調査を必要とすると手軽さがなくなる*stop necessity of investigation*|次に使えるスキルやアビリティなどをリキャストタイムやバフから割り出す*buff, recast management system...?*
+実力への反映*effect actual user skill*|机上論で終わらせたくない*for not finish in impractical proposition*|木人での練習時などに、1GCD前倒しで読み上げてくれる機能*reading aloud the skill in advance*
 
